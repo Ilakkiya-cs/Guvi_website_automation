@@ -4,6 +4,10 @@ Project Overview:
 
 This project automates the testing of the GUVI website using Python's Selenium framework. The automation script follows the Page Object Model (POM) for better maintainability and reusability. It includes seven test cases to validate different functionalities of the website. The test cases are executed using pytest, and proper Python exception handling is implemented.
 
+screen record link of the automation is attached below:
+https://www.awesomescreenshot.com/video/38366567?key=f0b8fa0acb77e6095925b2d655235fbf
+
+
 Technologies Used:
 
 1. Python
